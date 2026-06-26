@@ -111,6 +111,7 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Malla Manoj**
+**https://github.com/MallaManoj/Chess-Game**
 
 ---
 
